@@ -1,14 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Samuel Tonini
+slogan:         Auf den Spuren der Chinesischen Medizin
+description:    ""
+baseurl:        ""
+url:            ""
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Samuel Tonini
+  url:          https://www.samueltonini.com
+  email:        tonini.samuel@gmail.com
 
 # Build settings
 markdown:       kramdown
